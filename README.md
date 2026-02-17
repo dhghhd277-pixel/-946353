@@ -3,7 +3,7 @@
 Telegram bot (TeleBot / pyTelegramBotAPI + SQLite).
 
 ## Setup
-1) Create `.env` (example below) and fill required values (`BOT_TOKEN`, `ADMIN_ID`).
+1) Create `.env` (example below) and fill required values (`BOT_TOKEN`, `ADMIN_ID`). `ADMIN_IDS` and `DATABASE_PATH` are optional.
 2) Install deps: `pip install -r requirements.txt`
 3) Run: `python __main__.py`
 
